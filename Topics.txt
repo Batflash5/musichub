@@ -1,0 +1,19 @@
+Melody,1
+Tamil,3
+Charlie,2
+A R Rahman,2
+English,3
+Kuthu,1
+Rap,1
+Eminem,2
+Yuvan,2
+Jazz,1
+Katy perry,2
+Pop,1
+Blue,1
+Hindi,3
+Vijay,1
+Anirudh,2
+Maroon5,2
+Charlie,2
+
